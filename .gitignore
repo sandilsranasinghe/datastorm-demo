@@ -1,0 +1,8 @@
+venv
+AutogluonModels
+__pycache__
+.python-version
+catboost_info
+*.pyc
+*.pyo
+*.pyd
